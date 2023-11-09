@@ -1,0 +1,15 @@
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\bin\Debug\net6.0\POO-TP6.exe
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\bin\Debug\net6.0\POO-TP6.deps.json
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\bin\Debug\net6.0\POO-TP6.runtimeconfig.json
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\bin\Debug\net6.0\POO-TP6.dll
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\bin\Debug\net6.0\ref\POO-TP6.dll
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\bin\Debug\net6.0\POO-TP6.pdb
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\POO-TP6.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\POO-TP6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\POO-TP6.AssemblyInfoInputs.cache
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\POO-TP6.AssemblyInfo.cs
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\POO-TP6.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\POO-TP6.dll
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\ref\POO-TP6.dll
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\POO-TP6.pdb
+C:\Users\unisanta\source\repos\POO-TP6\POO-TP6\obj\Debug\net6.0\POO-TP6.genruntimeconfig.cache
